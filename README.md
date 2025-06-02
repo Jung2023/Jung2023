@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 project
   
-<img src="https://github.com/user-attachments/assets/7b9a28b4-593d-4428-adc6-89d3d02ca3ea" width="400" height="200"/><img src="https://github.com/user-attachments/assets/c02c0430-cf35-4230-b0e0-18a95e58e79f" width="400" height="200"/>
+<img src="https://github.com/user-attachments/assets/7b9a28b4-593d-4428-adc6-89d3d02ca3ea" width="400" height="200"/>  <img src="https://github.com/user-attachments/assets/c02c0430-cf35-4230-b0e0-18a95e58e79f" width="400" height="200"/>
 
 
 - 💞️ I’m looking to collaborate on ...
