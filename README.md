@@ -1,6 +1,6 @@
 👋 안녕하십니까 **정보보안 전문가**를 하기 위해 태어난 **정서은**입니다
 
-🌱 PROJECT
+🌱 Projects
 
 - Network Security
   
