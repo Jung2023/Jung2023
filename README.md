@@ -21,8 +21,5 @@
 
 - 모의해킹 결과보고서
 
-<imgs src="https://github.com/user-attachments/assets/3673ea02-98de-49ea-85ab-9784c8ece61d" width="200" height="400"/>
-<imgs src="" width="200" height="400"/>
-
-
-
+<img src="https://github.com/user-attachments/assets/3673ea02-98de-49ea-85ab-9784c8ece61d" width="200" height="400"/>
+<img src="https://github.com/user-attachments/assets/fde9100c-d02e-4553-baed-5e1f47097cfe" width="200" height="400"/>
