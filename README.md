@@ -21,3 +21,6 @@
 
 - 모의해킹 결과보고서
 
+![p1](https://github.com/user-attachments/assets/04ecb270-a711-4a86-81ad-079514dd586c)  ![p2](https://github.com/user-attachments/assets/2aa80dea-a779-4c21-9b85-6cb5c87fd893)
+
+
