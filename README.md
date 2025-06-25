@@ -8,6 +8,8 @@
 
 [![networksecurity-portfolio-202502](https://github.com/user-attachments/assets/d93b647a-6ff7-49a0-ad41-37f4ba3dbd19)](https://www.naver.com/)
 
+[<img src="https://github.com/user-attachments/assets/e2f90e15-4887-44db-a66b-bfad1c6507e7" width="400" height="200"/>](https://www.naver.com/)
+
 
 <img src="https://github.com/user-attachments/assets/0e52e22e-a39a-4c38-a5f7-6dc1551999a3" width="400" height="200"/>
 
