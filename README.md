@@ -5,8 +5,6 @@
 - Network Security
   
 <img src="https://github.com/user-attachments/assets/e2f90e15-4887-44db-a66b-bfad1c6507e7" width="400" height="200"/>
-[![My Image](https://private-user-images.githubusercontent.com/138086262/451235883-e2f90e15-4887-44db-a66b-bfad1c6507e7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTA4MzU3ODAsIm5iZiI6MTc1MDgzNTQ4MCwicGF0aCI6Ii8xMzgwODYyNjIvNDUxMjM1ODgzLWUyZjkwZTE1LTQ4ODctNDRkYi1hNjZiLWJmYWQxYzY1MDdlNy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNjI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDYyNVQwNzExMjBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02MjVkMjcyZDllMDExZTE5MTY3NDhmZTA0OGMyZWM3NmEzNDcwMDAzNmI1NWU0MmYxMzdlZDU2NDEwZTQ0MjkwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.N5xj8IT1tZCG8FfL73DkwarCXgY6s9m9RDIAi4WQdZY)](https://github.com/users/Jung2023/projects/10?pane=issue&itemId=113724949&issue=Jung2023%7Cportfolio_Security%7C6)
-
 <img src="https://github.com/user-attachments/assets/0e52e22e-a39a-4c38-a5f7-6dc1551999a3" width="400" height="200"/>
 
 - System Security
