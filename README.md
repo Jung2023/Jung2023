@@ -5,6 +5,8 @@
 - Network Security
   
 <img src="https://github.com/user-attachments/assets/e2f90e15-4887-44db-a66b-bfad1c6507e7" width="400" height="200"/>
+[![네트워크 보안1](https://raw.githubusercontent.com/user-attachments/assets/e2f90e15-4887-44db-a66b-bfad1c6507e7)](https://www.naver.com/)
+
 <img src="https://github.com/user-attachments/assets/0e52e22e-a39a-4c38-a5f7-6dc1551999a3" width="400" height="200"/>
 
 - System Security
