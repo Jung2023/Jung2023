@@ -29,6 +29,8 @@
 
 - 모의해킹 결과보고서
 
+[정서은_모의해킹결과보고서.pdf](https://github.com/user-attachments/files/20921736/_.pdf)
+
 <img src="https://github.com/user-attachments/assets/3673ea02-98de-49ea-85ab-9784c8ece61d" width="230" height="300"/>
 <img src="https://github.com/user-attachments/assets/fde9100c-d02e-4553-baed-5e1f47097cfe" width="230" height="300"/>
 <img src="https://github.com/user-attachments/assets/d02db0cb-f214-44e2-a3e9-9298d061e1df" width="230" height="300"/>
