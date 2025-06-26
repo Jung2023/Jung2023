@@ -16,8 +16,8 @@
 [<img src="https://github.com/user-attachments/assets/c1fb4451-3ae6-4524-9f54-3390a2674cdd" width="450" height="250"/>](https://github.com/Jung2023/portfolio_NETWORK-SYSTEM)
   
 - DB Application
-  
-[<img src="https://github.com/user-attachments/assets/c02c0430-cf35-4230-b0e0-18a95e58e79f" width="450" height="250"/>](https://github.com/Jung2023/portfolio_DB-Application/blob/main/README.md)
+
+[<img src="https://github.com/user-attachments/assets/472329f4-d1aa-44c5-b14c-afac2751a6f1" width="450" height="250"/>](https://github.com/Jung2023/portfolio_DB-Application/blob/main/README.md)
 
 - CTF             
 
