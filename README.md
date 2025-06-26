@@ -18,7 +18,7 @@
 
 - CTF                        • Wargame
 
-[<img src="https://github.com/user-attachments/assets/3169499a-0af2-4dc0-b7f8-6961f4a4a0b6" width="380" height="220"/>](https://github.com/users/Jung2023/projects/10?pane=issue&itemId=113724949&issue=Jung2023%7Cportfolio_Security%7C6)
+[<img src="https://github.com/user-attachments/assets/3169499a-0af2-4dc0-b7f8-6961f4a4a0b6" width="380" height="220"/>](https://github.com/Jung2023/portfolio_CTF)
 [<img src="https://github.com/user-attachments/assets/223ba426-7a21-4728-86e3-b7ee000d5e98" width="380" height="220"/>](https://github.com/users/Jung2023/projects/10?pane=issue&itemId=113724949&issue=Jung2023%7Cportfolio_Security%7C6)
 
 - 모의해킹 결과보고서
