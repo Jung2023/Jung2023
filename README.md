@@ -3,8 +3,12 @@
 🌱 Projects
 
 - Network Security
-  
-[<img src="https://github.com/user-attachments/assets/e2f90e15-4887-44db-a66b-bfad1c6507e7" width="450" height="250"/>](https://github.com/Jung2023/portfolio_NETWORK/blob/main/network1.md)
+
+
+![network-security-lab정보시스템구축추가완료](https://github.com/user-attachments/assets/56c7be46-3635-4af2-803e-7bb15a0b602c)
+
+
+[<img src="https://github.com/user-attachments/assets/0a84942e-9ed4-42b0-b7a9-d604cdfd71a9" width="450" height="250"/>](https://github.com/Jung2023/portfolio_NETWORK/blob/main/network1.md)
 [<img src="https://github.com/user-attachments/assets/0e52e22e-a39a-4c38-a5f7-6dc1551999a3" width="450" height="250"/>](https://github.com/Jung2023/portfolio_NETWORK/blob/main/network2.md)
 
 - System Security                   
