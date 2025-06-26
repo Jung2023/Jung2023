@@ -18,11 +18,7 @@
 
 - CTF             
 
-[<img src="https://github.com/user-attachments/assets/3169499a-0af2-4dc0-b7f8-6961f4a4a0b6" width="380" height="220"/>](https://github.com/Jung2023/portfolio_CTF)
-
-![CTF대회_포스터](https://github.com/user-attachments/assets/2ea46564-0b8f-4df1-937d-2e61567131b3)
-
-
+[![CTF대회_포스터](https://github.com/user-attachments/assets/2ea46564-0b8f-4df1-937d-2e61567131b3)](https://github.com/Jung2023/portfolio_CTF)
 
 - Wargame
 
