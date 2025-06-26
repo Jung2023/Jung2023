@@ -14,7 +14,7 @@
 
 - DB Application
   
-<img src="https://github.com/user-attachments/assets/c02c0430-cf35-4230-b0e0-18a95e58e79f" width="400" height="200"/>
+[<img src="https://github.com/user-attachments/assets/c02c0430-cf35-4230-b0e0-18a95e58e79f" width="400" height="200"/>](https://github.com/Jung2023/portfolio_DB-Application/blob/main/README.md)
 
 - CTF                        • Wargame
 
