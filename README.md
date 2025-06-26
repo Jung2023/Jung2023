@@ -4,8 +4,8 @@
 
 - Network Security
   
-[<img src="https://github.com/user-attachments/assets/e2f90e15-4887-44db-a66b-bfad1c6507e7" width="380" height="200"/>](https://github.com/users/Jung2023/projects/10?pane=issue&itemId=113724949&issue=Jung2023%7Cportfolio_Security%7C6)
-[<img src="https://github.com/user-attachments/assets/0e52e22e-a39a-4c38-a5f7-6dc1551999a3" width="380" height="200"/>](https://github.com/users/Jung2023/projects/10?pane=issue&itemId=113724949&issue=Jung2023%7Cportfolio_Security%7C6)
+[<img src="https://github.com/user-attachments/assets/e2f90e15-4887-44db-a66b-bfad1c6507e7" width="380" height="200"/>](https://github.com/Jung2023/portfolio_NETWORK/blob/main/network1.md)
+[<img src="https://github.com/user-attachments/assets/0e52e22e-a39a-4c38-a5f7-6dc1551999a3" width="380" height="200"/>](https://github.com/Jung2023/portfolio_NETWORK/blob/main/network2.md)
 
 - System Security                • Network & System Security
   
