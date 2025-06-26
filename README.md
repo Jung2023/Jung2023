@@ -13,7 +13,7 @@
 
 - Network & System Security
 
-[<img src="https://github.com/user-attachments/assets/7b9a28b4-593d-4428-adc6-89d3d02ca3ea" width="450" height="250"/>](https://github.com/Jung2023/portfolio_NETWORK-SYSTEM)
+[<img src="https://github.com/user-attachments/assets/c1fb4451-3ae6-4524-9f54-3390a2674cdd" width="450" height="250"/>](https://github.com/Jung2023/portfolio_NETWORK-SYSTEM)
   
 - DB Application
   
