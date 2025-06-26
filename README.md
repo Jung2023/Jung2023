@@ -8,8 +8,8 @@
 [<img src="https://github.com/user-attachments/assets/6e11dc81-6348-4f57-a808-c1c1f280643f" width="450" height="250"/>](https://github.com/Jung2023/portfolio_NETWORK/blob/main/network2.md)
 
 - System Security                   
-  
-[<img src="https://github.com/user-attachments/assets/6a3b8a60-3f23-4559-b006-188be6246c19" width="450" height="250"/>](https://github.com/Jung2023/portfolio_SYSTEM/blob/main/README.md)
+
+[<img src="https://github.com/user-attachments/assets/ec57869d-e8fa-49bb-900c-b9b11848c2f1" width="450" height="250"/>](https://github.com/Jung2023/portfolio_SYSTEM/blob/main/README.md)
 
 - Network & System Security
 
