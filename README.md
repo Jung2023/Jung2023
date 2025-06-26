@@ -4,14 +4,17 @@
 
 - Network Security
   
-[<img src="https://github.com/user-attachments/assets/e2f90e15-4887-44db-a66b-bfad1c6507e7" width="380" height="200"/>](https://github.com/Jung2023/portfolio_NETWORK/blob/main/network1.md)
-[<img src="https://github.com/user-attachments/assets/0e52e22e-a39a-4c38-a5f7-6dc1551999a3" width="380" height="200"/>](https://github.com/Jung2023/portfolio_NETWORK/blob/main/network2.md)
+[<img src="https://github.com/user-attachments/assets/e2f90e15-4887-44db-a66b-bfad1c6507e7" width="400" height="250"/>](https://github.com/Jung2023/portfolio_NETWORK/blob/main/network1.md)
+[<img src="https://github.com/user-attachments/assets/0e52e22e-a39a-4c38-a5f7-6dc1551999a3" width="400" height="250"/>](https://github.com/Jung2023/portfolio_NETWORK/blob/main/network2.md)
 
-- System Security                   • Network & System Security
+- System Security                   
   
 [<img src="https://github.com/user-attachments/assets/6a3b8a60-3f23-4559-b006-188be6246c19" width="380" height="200"/>](https://github.com/Jung2023/portfolio_SYSTEM/blob/main/README.md)
-[<img src="https://github.com/user-attachments/assets/7b9a28b4-593d-4428-adc6-89d3d02ca3ea" width="380" height="200"/>](https://github.com/Jung2023/portfolio_NETWORK-SYSTEM)
 
+- Network & System Security
+
+[<img src="https://github.com/user-attachments/assets/7b9a28b4-593d-4428-adc6-89d3d02ca3ea" width="380" height="200"/>](https://github.com/Jung2023/portfolio_NETWORK-SYSTEM)
+  
 - DB Application
   
 [<img src="https://github.com/user-attachments/assets/c02c0430-cf35-4230-b0e0-18a95e58e79f" width="400" height="200"/>](https://github.com/Jung2023/portfolio_DB-Application/blob/main/README.md)
