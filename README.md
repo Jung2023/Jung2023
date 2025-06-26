@@ -4,11 +4,6 @@
 
 - Network Security
 
-![networksecurity-portfolio-202502](https://github.com/user-attachments/assets/6e11dc81-6348-4f57-a808-c1c1f280643f)
-![networksecurity-portfolio-202502](https://github.com/user-attachments/assets/6e11dc81-6348-4f57-a808-c1c1f280643f)
-
-
-
 [<img src="https://github.com/user-attachments/assets/649ae736-b2da-4298-90ec-03011534f613" width="450" height="250"/>](https://github.com/Jung2023/portfolio_NETWORK/blob/main/network1.md)
 [<img src="https://github.com/user-attachments/assets/6e11dc81-6348-4f57-a808-c1c1f280643f" width="450" height="250"/>](https://github.com/Jung2023/portfolio_NETWORK/blob/main/network2.md)
 
