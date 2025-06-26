@@ -9,7 +9,7 @@
 
 - System Security                • Network & System Security
   
-<img src="https://github.com/user-attachments/assets/6a3b8a60-3f23-4559-b006-188be6246c19" width="380" height="200"/>  
+<img src="https://github.com/user-attachments/assets/6a3b8a60-3f23-4559-b006-188be6246c19" width="380" height="200"/>
 <img src="https://github.com/user-attachments/assets/7b9a28b4-593d-4428-adc6-89d3d02ca3ea" width="380" height="200"/>
 
 - DB Application
