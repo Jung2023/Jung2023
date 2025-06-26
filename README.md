@@ -24,8 +24,6 @@
 
 [<img src="https://github.com/user-attachments/assets/223ba426-7a21-4728-86e3-b7ee000d5e98" width="600" height="350"/>](https://github.com/Jung2023/portfolio_WARGAME)
 
-[![Wargame-정보시스템구축엔지니어](https://github.com/user-attachments/assets/e30c2088-1bb3-4a96-a38d-8abebfd4f7c7)](https://github.com/Jung2023/portfolio_WARGAME)
-
 - 모의해킹 결과보고서
 
 <img src="https://github.com/user-attachments/assets/3673ea02-98de-49ea-85ab-9784c8ece61d" width="230" height="300"/>
